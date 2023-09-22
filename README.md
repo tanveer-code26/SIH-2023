@@ -8,5 +8,4 @@ suggestions for future use:
 3. Because of parallel proccessing of jetson, can is estimated to convert 480p videos or more in real time. I used 360p video to test it.
 4. To produce a real time video, I have thought about sending origninal and dehazed frame every time it is processed and the images section is refreshed quite
    fast to produce an effect of a video display.
-5. In the above case, sir's original code can be converted to output input and output frames in real time
 
